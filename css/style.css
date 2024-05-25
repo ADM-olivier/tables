@@ -1,0 +1,62 @@
+table{
+    width: 100%;
+}
+.thead{
+    text-align: center;
+    background-color: cyan;
+}
+.tbody{
+    background-color: lightgreen;
+}
+.tfoot{
+    text-align: center;
+    background-color: cyan;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.th{
+    background-color: white;
+    text-align: center;
+}
+.col{
+    background-color: grey;
+}
+
+
+
+.lunch{
+    
+}
+
+
+
+
+
+
+.head{
+    background-color: pink;
+    text-align: left;
+}
+
+.foot{
+    background-color: lightgreen;
+    text-align: center;
+}
+.html{
+    background-color: white;
+    text-align: top;
+}
+.grey{
+    background-color: grey;
+
+}
