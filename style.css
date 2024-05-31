@@ -1,10 +1,10 @@
 .table{
-     border:purple 2;
+     border-color:greenyellow;
 }
 tr{
     border: 2 red;
     font-size: 50px;
 }
 .tr{
-    background-color: grey;
+    background-color: red;
 }
